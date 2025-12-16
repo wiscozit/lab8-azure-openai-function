@@ -1,0 +1,1 @@
+# lab8-azure-openai-function
